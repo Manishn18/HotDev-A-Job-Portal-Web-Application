@@ -323,14 +323,14 @@ Ensure you have the following software installed on your system:
 #### Recruiter Registration Page
 ![Screenshot 2024-06-09 201947](https://github.com/Manishn18/Society-Management/assets/87479740/493ee020-a774-41c3-ac97-7ac2276d9de8)
 
-## Recruiter Login Page
+#### Recruiter Login Page
 ![Screenshot 2024-06-09 202144](https://github.com/Manishn18/Society-Management/assets/87479740/9b211851-a5f9-4e45-913e-15c04f6d3e72)
 
-### Recruiter Set up Profile
+#### Recruiter Set up Profile
 ![Screenshot 2024-06-09 202320](https://github.com/Manishn18/Society-Management/assets/87479740/c890461a-ff41-464d-8202-462c266ae0dc)
 
 #### Recruiter Dashboard
-![Screenshot 2024-06-09 202630](https://github.com/Manishn18/Society-Management/assets/87479740/8aa7dcc5-2825-455c-b5da-b70085d3541c)
+![Screenshot 2024-06-10 105237](https://github.com/Manishn18/HotDev-A-Job-Portal-Web-Application/assets/87479740/5a6232ec-12ad-4bd0-b2b5-abe7771d86ba)
 
 #### Recruiter Post New Job
 ![Screenshot 2024-06-09 202742](https://github.com/Manishn18/Society-Management/assets/87479740/9ce77f55-3b84-4887-8d2b-374daeb63cba)
